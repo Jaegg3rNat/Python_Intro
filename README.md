@@ -1,7 +1,7 @@
 # Python_Intro
 
-Exercises and Projects from the Discipline Introduction to Python
-Rio de Janeiro State University
+EXERCISES AND PROJECTS FROM THE DISCIPLINE INTRODUCTION TO PYTHON 
+RIO DE JANEIRO STATE UNIVERSITY
 2020.2
 
 ##############################################################
